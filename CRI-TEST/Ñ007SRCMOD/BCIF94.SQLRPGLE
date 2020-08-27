@@ -33,6 +33,7 @@ ctl-opt nomain bnddir('CCGIBNDDIR':'CMQBNDDIR':'CIFSRV':'CEXCEPBNDD');
 //@author:    Edson Parajeles Corrales
 //@since:     agosto 2020
 //@comments:  Agregar campo CES a servicio de modificación de Cliente
+// cambio con github
 //@@
 /INCLUDE CCGITSRC/QSRCTXT,PROTOTYPEB
 /INCLUDE CCGITSRC/QSRCTXT,USEC
